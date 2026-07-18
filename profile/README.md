@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="/images/logo.png" alt="bitesinbyte" width="160" />
+<img src="/images/logo.png" alt="Lamplit Labs" width="160" />
 
-# bitesinbyte
+# Lamplit Labs
 
-**Building tools that make a difference**
+**Practical tools for real problems**
 
-_Small, practical software packed into every byte._
+_A warm, focused light on the problems that matter — formerly known as bitesinbyte._
 
-[![Website](https://img.shields.io/badge/bitesinbyte.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bitesinbyte.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.bitesinbyte.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bitesinbyte)
+[![Website](https://img.shields.io/badge/lamplitlabs.com-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lamplitlabs.com)
+[![Blog](https://img.shields.io/badge/Blog-E8A33D?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.lamplitlabs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lamplitlabs)
 
 ---
 
@@ -21,6 +21,15 @@ _Small, practical software packed into every byte._
 From medical exam prep for doctors in Germany to citizenship test tools, career resources, and developer utilities.
 
 <table>
+<tr>
+
+<td align="center" colspan="3">
+<img src="https://img.shields.io/badge/AI-Personalized_Learning-E8A33D?style=flat-square" /><br/>
+<h3><a href="https://www.amistio.com">Amistio</a></h3>
+<sub>AI-powered personalized learning platform. You talk, Ami plans, you practice, your work gets graded, and the next step adapts — for languages, coding, math, music, and exam prep.</sub>
+</td>
+
+</tr>
 <tr>
 
 <td align="center" width="33%">
@@ -46,20 +55,38 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Developer-Utilities-9C27B0?style=flat-square" /><br/>
-<h3><a href="https://tools.bitesinbyte.com">Developer Tools</a></h3>
+<h3><a href="https://tools.lamplitlabs.com">Developer Tools</a></h3>
 <sub>JSON formatter, Base64 encoder/decoder, UUID generator, URL parser, and more. Fast, free, in your browser.</sub>
 </td>
 
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Productivity-Career-E91E63?style=flat-square" /><br/>
-<h3><a href="https://resume.bitesinbyte.com">Resume Builder</a></h3>
+<h3><a href="https://resume.lamplitlabs.com">Resume Builder</a></h3>
 <sub>ATS-optimized resume builder. Create professional, ATS-friendly resumes in minutes.</sub>
 </td>
 
 <td align="center" width="33%">
 <img src="https://img.shields.io/badge/Developer-.NET_Tools-512BD4?style=flat-square" /><br/>
-<h3><a href="https://edmx.bitesinbyte.com">OData EDMX Tools</a></h3>
+<h3><a href="https://edmx.lamplitlabs.com">OData EDMX Tools</a></h3>
 <sub>EDMX Explorer, EDMX Trimmer, EDMX to OpenAPI converter, and EDMX to JSON converter.</sub>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Azure-Architecture-0078D4?style=flat-square" /><br/>
+<h3><a href="https://azure-assets.lamplitlabs.com">Azure Draw.io Assets</a></h3>
+<sub>Searchable catalog of Azure architecture icons for Draw.io, synced from official Microsoft icon sets.</sub>
+</td>
+
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Azure-Compliance-107C10?style=flat-square" /><br/>
+<h3><a href="https://azure-compliance.lamplitlabs.com">Azure Compliance Matrix</a></h3>
+<sub>Interactive compliance coverage matrix for Azure services across ISO, SOC, HIPAA, PCI DSS, and more.</sub>
+</td>
+
+<td align="center" width="33%">
 </td>
 
 </tr>
@@ -83,6 +110,6 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 
 **Built in Germany 🇩🇪**
 
-<sub>© 2026 bitesinbyte · All rights reserved</sub>
+<sub>© 2026 Lamplit Labs · All rights reserved</sub>
 
 </div>
