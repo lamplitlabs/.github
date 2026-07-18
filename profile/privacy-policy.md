@@ -1,15 +1,15 @@
-# bitesinbyte  Privacy Statement
+# Lamplit Labs  Privacy Statement
 
 ### 1. Acknowledgment and Acceptance of Terms
-bitesinbyte is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with bitesinbyte.com. By accessing bitesinbyte.com, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Lamplit Labs is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with lamplitlabs.com. By accessing lamplitlabs.com, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ### 2. Participating Clients, Merchant Policies, and Third Party Websites</MudText>
-Related services and offerings with links from this website, including all other websites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. All bitesinbyte advertising clients are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. bitesinbyte is not responsible for the privacy practices or contents of third-party or client websites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+Related services and offerings with links from this website, including all other websites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. All Lamplit Labs advertising clients are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. Lamplit Labs is not responsible for the privacy practices or contents of third-party or client websites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
 ### 3. Information We Collect and How We Use It
-bitesinbyte collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. When you visit our Website, we may track information to administer the site and analyze its usage for the purpose of serving our visitors and customers better.
+Lamplit Labs collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. When you visit our Website, we may track information to administer the site and analyze its usage for the purpose of serving our visitors and customers better.
 
-bitesinbyte reserves the right to use contact information collected through advertising campaigns and other methods for commercial marketing purposes.
+Lamplit Labs reserves the right to use contact information collected through advertising campaigns and other methods for commercial marketing purposes.
 
 ### 3a. Tracking Pixels
 This website uses Google Ads’ free conversion tracking features on certain pages. If you contact us online, the destination page will have code on it that will help us understand the path you took to arrive on that page.
@@ -44,9 +44,9 @@ You may also opt out of the DoubleClick cookie by visiting the <a Href="https://
 Or you may opt out of Google Analytics by visiting the <a Href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out page</a>.
 
 ### 5. Changes to This Statement
-bitesinbyte has the discretion to occasionally update this privacy statement. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.
+Lamplit Labs has the discretion to occasionally update this privacy statement. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please <a Href="https://github.com/orgs/bitesinbyte/discussions/new/choose">contact us</a>.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please <a Href="https://github.com/orgs/Lamplit Labs/discussions/new/choose">contact us</a>.
 
 ### 7. Google Disclosures
 Read Google’s advertiser guide to working with third parties <a Href="https://support.google.com/adspolicy/answer/9457109?hl=en">here</a>.
