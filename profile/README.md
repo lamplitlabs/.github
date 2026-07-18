@@ -10,6 +10,7 @@ _A warm, focused light on the problems that matter — formerly known as bitesin
 
 [![Website](https://img.shields.io/badge/lamplitlabs.com-0A0A0F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.lamplitlabs.com)
 [![Blog](https://img.shields.io/badge/Blog-E8A33D?style=for-the-badge&logo=hashnode&logoColor=white)](https://blogs.lamplitlabs.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lamplitlabs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lamplitlabs)
 
 ---
