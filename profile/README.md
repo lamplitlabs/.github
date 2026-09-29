@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloud OCR Compared: Amazon Textract vs Google Cloud Vision vs Azure AI Document Intelligence](https://blogs.lamplitlabs.com/posts/cloud-ocr-comparison-aws-gcp-azure/)
 - [Automate Draw.io Diagram Export with GitHub Actions](https://blogs.lamplitlabs.com/posts/automate-drawio-github-actions/)
 - [Automate Draw.io Diagram Export with Azure DevOps](https://blogs.lamplitlabs.com/posts/automate-drawio-azure-devops/)
 - [Principal does not have access to API/Operation](https://blogs.lamplitlabs.com/posts/principal-does-not-have-access-to-api-operation/)
 - [Key based authentication is disabled for this resource](https://blogs.lamplitlabs.com/posts/key-based-authentication-is-disabled-for-this-resource/)
-- [Call to get Azure Search index failed - Server responded with status 403](https://blogs.lamplitlabs.com/posts/call-to-get-azure-search-index-failed-server-responded-with-status-403/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
