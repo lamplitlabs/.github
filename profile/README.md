@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing LLM Prompts in .NET: Regression Tests for Azure OpenAI Outputs](https://blogs.lamplitlabs.com/posts/testing-llm-prompts-dotnet/)
+- [Azure OpenAI Content Filters in .NET: Handling finish_reason content_filter Without Breaking Your App](https://blogs.lamplitlabs.com/posts/azure-openai-content-filter-dotnet/)
 - [Azure OpenAI Batch API in .NET: Process Thousands of Prompts at Half the Price](https://blogs.lamplitlabs.com/posts/azure-openai-batch-api-dotnet/)
 - [Azure OpenAI Embeddings in .NET: Semantic Search Without a Vector Database](https://blogs.lamplitlabs.com/posts/azure-openai-embeddings-semantic-search-dotnet/)
 - [Azure OpenAI Function Calling in .NET: Let the Model Call Your C# Methods Safely](https://blogs.lamplitlabs.com/posts/azure-openai-function-calling-dotnet/)
-- [Streaming Azure OpenAI Responses in .NET: First Token in Under a Second](https://blogs.lamplitlabs.com/posts/streaming-azure-openai-responses-dotnet/)
-- [Handling 429 Rate Limits from Azure OpenAI in .NET: Backoff That Actually Works](https://blogs.lamplitlabs.com/posts/azure-openai-429-rate-limit-retry-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
