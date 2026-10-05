@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing LLM Prompts in .NET: Regression Tests for Azure OpenAI Outputs](https://blogs.lamplitlabs.com/posts/testing-llm-prompts-dotnet/)
-- [Azure OpenAI Content Filters in .NET: Handling finish_reason content_filter Without Breaking Your App](https://blogs.lamplitlabs.com/posts/azure-openai-content-filter-dotnet/)
-- [Azure OpenAI Batch API in .NET: Process Thousands of Prompts at Half the Price](https://blogs.lamplitlabs.com/posts/azure-openai-batch-api-dotnet/)
-- [Azure OpenAI Embeddings in .NET: Semantic Search Without a Vector Database](https://blogs.lamplitlabs.com/posts/azure-openai-embeddings-semantic-search-dotnet/)
-- [Azure OpenAI Function Calling in .NET: Let the Model Call Your C# Methods Safely](https://blogs.lamplitlabs.com/posts/azure-openai-function-calling-dotnet/)
+- [Azure OpenAI Prompt Caching in .NET: Cut Latency and Input Cost by Ordering Your Prompt Right](https://blogs.lamplitlabs.com/posts/azure-openai-prompt-caching-dotnet/)
+- [How This Blog Is Built and Checked: Jekyll, tools/test.sh and AI Agents That Draft but Never Merge](https://blogs.lamplitlabs.com/posts/our-blog-pipeline-ai-assisted-publishing/)
+- [pg vs Prisma vs Drizzle: PostgreSQL Driver Latency from Node.js 22, Measured with autocannon](https://blogs.lamplitlabs.com/posts/postgres-driver-latency-pg-vs-prisma-vs-drizzle/)
+- [AI SDLC: How to Measure an AI Code-Review Agent Before You Trust It](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agent-metrics/)
+- [Grounding a Model with Your Own Documents and Getting a Reply Your Code Can Check](https://blogs.lamplitlabs.com/posts/Grounding_A_Model_With_Your_Documents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
