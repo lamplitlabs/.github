@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure OpenAI Prompt Caching in .NET: Cut Latency and Input Cost by Ordering Your Prompt Right](https://blogs.lamplitlabs.com/posts/azure-openai-prompt-caching-dotnet/)
-- [How This Blog Is Built and Checked: Jekyll, tools/test.sh and AI Agents That Draft but Never Merge](https://blogs.lamplitlabs.com/posts/our-blog-pipeline-ai-assisted-publishing/)
-- [pg vs Prisma vs Drizzle: PostgreSQL Driver Latency from Node.js 22, Measured with autocannon](https://blogs.lamplitlabs.com/posts/postgres-driver-latency-pg-vs-prisma-vs-drizzle/)
-- [AI SDLC: How to Measure an AI Code-Review Agent Before You Trust It](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agent-metrics/)
-- [Grounding a Model with Your Own Documents and Getting a Reply Your Code Can Check](https://blogs.lamplitlabs.com/posts/Grounding_A_Model_With_Your_Documents/)
+- [TypeScript vs Kotlin for Backend Services: Type Safety, Tooling, Performance and Team Velocity](https://blogs.lamplitlabs.com/posts/typescript-vs-kotlin-backend-services/)
+- [Enterprise AI: Semantic Caching for Azure OpenAI with Azure API Management](https://blogs.lamplitlabs.com/posts/enterprise-ai-apim-semantic-caching-azure-openai/)
+- [Java 21 Virtual Threads vs .NET 8 async/await: Blocking I/O Throughput, Measured with wrk](https://blogs.lamplitlabs.com/posts/java-virtual-threads-vs-dotnet-async-throughput/)
+- [Enterprise AI: A Cost Observability Dashboard for Azure OpenAI with Log Analytics, KQL and Workbooks](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-cost-observability-dashboard/)
+- [In-Process Cache vs Redis in .NET 8: Where the Microseconds Go, Measured with BenchmarkDotNet](https://blogs.lamplitlabs.com/posts/dotnet-cache-latency-memory-vs-redis-hybridcache/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
