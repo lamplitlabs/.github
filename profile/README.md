@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs Kotlin for Backend Services: Type Safety, Tooling, Performance and Team Velocity](https://blogs.lamplitlabs.com/posts/typescript-vs-kotlin-backend-services/)
-- [Enterprise AI: Semantic Caching for Azure OpenAI with Azure API Management](https://blogs.lamplitlabs.com/posts/enterprise-ai-apim-semantic-caching-azure-openai/)
-- [Java 21 Virtual Threads vs .NET 8 async/await: Blocking I/O Throughput, Measured with wrk](https://blogs.lamplitlabs.com/posts/java-virtual-threads-vs-dotnet-async-throughput/)
-- [Enterprise AI: A Cost Observability Dashboard for Azure OpenAI with Log Analytics, KQL and Workbooks](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-cost-observability-dashboard/)
-- [In-Process Cache vs Redis in .NET 8: Where the Microseconds Go, Measured with BenchmarkDotNet](https://blogs.lamplitlabs.com/posts/dotnet-cache-latency-memory-vs-redis-hybridcache/)
+- [Calling a Language Model from Code: Your Prompt Is Just an API Request](https://blogs.lamplitlabs.com/posts/Calling_A_Model_From_Code/)
+- [Python vs Rust in a Hot Loop: What 10 Million Iterations Cost, Measured with hyperfine](https://blogs.lamplitlabs.com/posts/python-vs-rust-hot-loop-performance/)
+- [System.Text.Json Source Generators vs Newtonsoft.Json: A BenchmarkDotNet Comparison on .NET 8](https://blogs.lamplitlabs.com/posts/dotnet-json-serialization-performance/)
+- [Enterprise AI: Cost and Latency SLOs for LLM Workloads - Burn-Rate Alerts for Azure OpenAI in Production](https://blogs.lamplitlabs.com/posts/enterprise-ai-llm-cost-latency-slos-production/)
+- [How a Language Model Answers You: Tokens, Prediction and Repetition](https://blogs.lamplitlabs.com/posts/How_Language_Models_Work/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
