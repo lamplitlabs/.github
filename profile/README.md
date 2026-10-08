@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Calling a Language Model from Code: Your Prompt Is Just an API Request](https://blogs.lamplitlabs.com/posts/Calling_A_Model_From_Code/)
+- [pg vs Prisma vs Drizzle: PostgreSQL Driver Latency from Node.js 22, Measured with autocannon](https://blogs.lamplitlabs.com/posts/postgres-driver-latency-pg-vs-prisma-vs-drizzle/)
+- [Grounding a Model with Your Own Documents and Getting a Reply Your Code Can Check](https://blogs.lamplitlabs.com/posts/Grounding_A_Model_With_Your_Documents/)
+- [AI SDLC: How to Measure an AI Code-Review Agent Before You Trust It](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agent-metrics/)
 - [Python vs Rust in a Hot Loop: What 10 Million Iterations Cost, Measured with hyperfine](https://blogs.lamplitlabs.com/posts/python-vs-rust-hot-loop-performance/)
-- [System.Text.Json Source Generators vs Newtonsoft.Json: A BenchmarkDotNet Comparison on .NET 8](https://blogs.lamplitlabs.com/posts/dotnet-json-serialization-performance/)
-- [Enterprise AI: Cost and Latency SLOs for LLM Workloads - Burn-Rate Alerts for Azure OpenAI in Production](https://blogs.lamplitlabs.com/posts/enterprise-ai-llm-cost-latency-slos-production/)
-- [How a Language Model Answers You: Tokens, Prediction and Repetition](https://blogs.lamplitlabs.com/posts/How_Language_Models_Work/)
+- [Calling a Language Model from Code: Your Prompt Is Just an API Request](https://blogs.lamplitlabs.com/posts/Calling_A_Model_From_Code/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
