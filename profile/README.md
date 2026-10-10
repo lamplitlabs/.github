@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Retries, Timeouts and Rate Limits: Making Your First Model Call Survive the Real World](https://blogs.lamplitlabs.com/posts/Retries_Timeouts_And_Rate_Limits/)
-- [How This Blog Is Built and Checked: Jekyll, tools/test.sh and AI Agents That Draft but Never Merge](https://blogs.lamplitlabs.com/posts/our-blog-pipeline-ai-assisted-publishing/)
-- [pg vs Prisma vs Drizzle: PostgreSQL Driver Latency from Node.js 22, Measured with autocannon](https://blogs.lamplitlabs.com/posts/postgres-driver-latency-pg-vs-prisma-vs-drizzle/)
-- [OData $batch in .NET - Replace 50 Round Trips With One Request &lpar;With Numbers&rpar;](https://blogs.lamplitlabs.com/posts/odata-batch-requests-dotnet-one-round-trip/)
-- [Grounding a Model with Your Own Documents and Getting a Reply Your Code Can Check](https://blogs.lamplitlabs.com/posts/Grounding_A_Model_With_Your_Documents/)
+- [Bulk Writes to D365 Over OData in .NET - Upserting 250,000 Rows Without Getting Throttled](https://blogs.lamplitlabs.com/posts/odata-bulk-writes-d365-dotnet-throttling/)
+- [Embeddings and Cosine Similarity: How a Program Tells That Two Sentences Mean the Same Thing](https://blogs.lamplitlabs.com/posts/Embeddings_And_Cosine_Similarity/)
+- [Azure OpenAI Prompt Caching in .NET: Cut Latency and Input Cost by Ordering Your Prompt Right](https://blogs.lamplitlabs.com/posts/azure-openai-prompt-caching-dotnet/)
+- [Azure Cosmos DB .NET SDK v3: The Serialization Cost Hiding in Every ReadItemAsync, Measured with BenchmarkDotNet](https://blogs.lamplitlabs.com/posts/cosmos-db-sdk-serialization-cost-dotnet/)
+- [OData Paging for Large Dynamics 365 Datasets in .NET - $skip vs $skiptoken vs Keyset &lpar;With Numbers&rpar;](https://blogs.lamplitlabs.com/posts/odata-paging-strategies-large-d365-datasets-dotnet/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
