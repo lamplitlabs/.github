@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Bulk Writes to D365 Over OData in .NET - Upserting 250,000 Rows Without Getting Throttled](https://blogs.lamplitlabs.com/posts/odata-bulk-writes-d365-dotnet-throttling/)
-- [Embeddings and Cosine Similarity: How a Program Tells That Two Sentences Mean the Same Thing](https://blogs.lamplitlabs.com/posts/Embeddings_And_Cosine_Similarity/)
-- [Azure OpenAI Prompt Caching in .NET: Cut Latency and Input Cost by Ordering Your Prompt Right](https://blogs.lamplitlabs.com/posts/azure-openai-prompt-caching-dotnet/)
-- [Azure Cosmos DB .NET SDK v3: The Serialization Cost Hiding in Every ReadItemAsync, Measured with BenchmarkDotNet](https://blogs.lamplitlabs.com/posts/cosmos-db-sdk-serialization-cost-dotnet/)
-- [OData Paging for Large Dynamics 365 Datasets in .NET - $skip vs $skiptoken vs Keyset &lpar;With Numbers&rpar;](https://blogs.lamplitlabs.com/posts/odata-paging-strategies-large-d365-datasets-dotnet/)
+- [Rust vs Python for an AI Inference Microservice: 1.5x Throughput, 3x Less Memory, 3x Better p99](https://blogs.lamplitlabs.com/posts/rust-vs-python-ai-inference-microservice/)
+- [Java vs Kotlin for a Spring Boot Microservice: Same Runtime, 40% Less Code, 2x Longer Builds](https://blogs.lamplitlabs.com/posts/java-vs-kotlin-spring-boot-microservice/)
+- [AI SDLC: Where Coding Agents Fit in the Development Lifecycle - Four Hand-off Points](https://blogs.lamplitlabs.com/posts/ai-sdlc-coding-agents-in-the-dev-lifecycle-handoff-points/)
+- [Enterprise AI: Self-Hosted Llama 3.1 70B on vLLM vs Azure OpenAI - Cost and Latency at 1.4 B Tokens a Month](https://blogs.lamplitlabs.com/posts/enterprise-ai-self-hosted-llm-vs-azure-openai-cost-latency/)
+- [vLLM vs TGI vs TensorRT-LLM: LLM Serving Latency and Throughput on One H100, Measured at p99](https://blogs.lamplitlabs.com/posts/vllm-vs-tgi-vs-tensorrt-llm-serving-latency/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
