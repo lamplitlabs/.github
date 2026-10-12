@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust vs Python for an AI Inference Microservice: 1.5x Throughput, 3x Less Memory, 3x Better p99](https://blogs.lamplitlabs.com/posts/rust-vs-python-ai-inference-microservice/)
-- [Java vs Kotlin for a Spring Boot Microservice: Same Runtime, 40% Less Code, 2x Longer Builds](https://blogs.lamplitlabs.com/posts/java-vs-kotlin-spring-boot-microservice/)
-- [AI SDLC: Where Coding Agents Fit in the Development Lifecycle - Four Hand-off Points](https://blogs.lamplitlabs.com/posts/ai-sdlc-coding-agents-in-the-dev-lifecycle-handoff-points/)
-- [Enterprise AI: Self-Hosted Llama 3.1 70B on vLLM vs Azure OpenAI - Cost and Latency at 1.4 B Tokens a Month](https://blogs.lamplitlabs.com/posts/enterprise-ai-self-hosted-llm-vs-azure-openai-cost-latency/)
-- [vLLM vs TGI vs TensorRT-LLM: LLM Serving Latency and Throughput on One H100, Measured at p99](https://blogs.lamplitlabs.com/posts/vllm-vs-tgi-vs-tensorrt-llm-serving-latency/)
+- [OpenAPI to MCP Server Generator: Turning REST APIs into Agent Tools](https://blogs.lamplitlabs.com/posts/openapi-to-mcp-server-generator-turning-rest-apis-into-agent-tools/)
+- [Enterprise AI: Data Residency and Compliance Checklist for Azure OpenAI Deployments](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-data-residency-compliance-checklist/)
+- [AI SDLC: Migrating a .NET Framework 4.8 Service to .NET 8 with a Coding Agent - What It Did, What We Did, and the Numbers](https://blogs.lamplitlabs.com/posts/ai-sdlc-dotnet-framework-to-dotnet8-migration-coding-agent/)
+- [AI Pricing Calculator: Estimating LLM API Costs Before You Ship](https://blogs.lamplitlabs.com/posts/ai-pricing-calculator-estimating-llm-api-costs-before-you-ship/)
+- [Go vs Rust for a GC-Sensitive AI Inference Gateway: p99 Latency, Memory and GC Pauses, Measured](https://blogs.lamplitlabs.com/posts/go-vs-rust-ai-inference-gateway-latency-memory/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
