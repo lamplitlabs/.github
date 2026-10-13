@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAPI to MCP Server Generator: Turning REST APIs into Agent Tools](https://blogs.lamplitlabs.com/posts/openapi-to-mcp-server-generator-turning-rest-apis-into-agent-tools/)
-- [Enterprise AI: Data Residency and Compliance Checklist for Azure OpenAI Deployments](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-data-residency-compliance-checklist/)
-- [AI SDLC: Migrating a .NET Framework 4.8 Service to .NET 8 with a Coding Agent - What It Did, What We Did, and the Numbers](https://blogs.lamplitlabs.com/posts/ai-sdlc-dotnet-framework-to-dotnet8-migration-coding-agent/)
-- [AI Pricing Calculator: Estimating LLM API Costs Before You Ship](https://blogs.lamplitlabs.com/posts/ai-pricing-calculator-estimating-llm-api-costs-before-you-ship/)
-- [Go vs Rust for a GC-Sensitive AI Inference Gateway: p99 Latency, Memory and GC Pauses, Measured](https://blogs.lamplitlabs.com/posts/go-vs-rust-ai-inference-gateway-latency-memory/)
+- [One Workflow, Three Tools: Prompt to Schema to Validator with the Lamplit Labs Tools](https://blogs.lamplitlabs.com/posts/own-tools-workflow-prompt-to-schema-to-validator/)
+- [AI SDLC: Seven Practices That Held Up After a Year of Coding Agents in .NET Teams](https://blogs.lamplitlabs.com/posts/ai-sdlc-practices/)
+- [AI SDLC: A Code-Review Agent Workflow That Reviewers Actually Trust](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agent-workflow/)
+- [Tiktoken Playground: Seeing Where Your Prompt Actually Splits](https://blogs.lamplitlabs.com/posts/tiktoken-playground-seeing-where-your-prompt-actually-splits/)
+- [Model Context Window Chart: How Much Fits Before You Start Trimming](https://blogs.lamplitlabs.com/posts/model-context-window-chart-how-much-fits-before-you-start-trimming/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
