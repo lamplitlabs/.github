@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [One Workflow, Three Tools: Prompt to Schema to Validator with the Lamplit Labs Tools](https://blogs.lamplitlabs.com/posts/own-tools-workflow-prompt-to-schema-to-validator/)
-- [AI SDLC: Seven Practices That Held Up After a Year of Coding Agents in .NET Teams](https://blogs.lamplitlabs.com/posts/ai-sdlc-practices/)
-- [AI SDLC: A Code-Review Agent Workflow That Reviewers Actually Trust](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agent-workflow/)
-- [Tiktoken Playground: Seeing Where Your Prompt Actually Splits](https://blogs.lamplitlabs.com/posts/tiktoken-playground-seeing-where-your-prompt-actually-splits/)
-- [Model Context Window Chart: How Much Fits Before You Start Trimming](https://blogs.lamplitlabs.com/posts/model-context-window-chart-how-much-fits-before-you-start-trimming/)
+- [Enterprise AI: surviving Azure OpenAI model retirements without a weekend of firefighting](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-model-retirement-upgrade-gate/)
+- [Why This Jekyll Blog Took 8 Seconds to Build: 278 Git Subprocesses in One Plugin Hook](https://blogs.lamplitlabs.com/posts/jekyll-build-time-git-lastmod-hook/)
+- [.NET 9 vs Node 22 as an LLM API Gateway: Requests per Second, p99 Latency and Memory, Measured](https://blogs.lamplitlabs.com/posts/dotnet-vs-node-llm-gateway-throughput/)
+- [TypeScript vs Go vs Rust for LLM Tooling: One MCP Server, Three Languages, Measured](https://blogs.lamplitlabs.com/posts/typescript-vs-go-vs-rust-for-llm-tooling/)
+- [AI SDLC with Copilot Agents: From Spec Issue to Agent PR to Review, End to End](https://blogs.lamplitlabs.com/posts/ai-sdlc-with-copilot-agents/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
