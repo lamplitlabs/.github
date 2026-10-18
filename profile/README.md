@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI: surviving Azure OpenAI model retirements without a weekend of firefighting](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-model-retirement-upgrade-gate/)
-- [Why This Jekyll Blog Took 8 Seconds to Build: 278 Git Subprocesses in One Plugin Hook](https://blogs.lamplitlabs.com/posts/jekyll-build-time-git-lastmod-hook/)
-- [.NET 9 vs Node 22 as an LLM API Gateway: Requests per Second, p99 Latency and Memory, Measured](https://blogs.lamplitlabs.com/posts/dotnet-vs-node-llm-gateway-throughput/)
-- [TypeScript vs Go vs Rust for LLM Tooling: One MCP Server, Three Languages, Measured](https://blogs.lamplitlabs.com/posts/typescript-vs-go-vs-rust-for-llm-tooling/)
-- [AI SDLC with Copilot Agents: From Spec Issue to Agent PR to Review, End to End](https://blogs.lamplitlabs.com/posts/ai-sdlc-with-copilot-agents/)
+- [AI SDLC: Rolling Out AI Code-Review Agents Across an Enterprise - Four Gates and the Eight-Week Numbers](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agents-enterprise-rollout/)
+- [AI SDLC: AGENTS.md Files Coding Agents Actually Follow - Five Rules and One Rework Metric](https://blogs.lamplitlabs.com/posts/ai-sdlc-agents-md-instruction-files-coding-agents-actually-follow/)
+- [AI SDLC: Cost per Merged PR - Token Budgets for Coding Agents and the Four Numbers We Track](https://blogs.lamplitlabs.com/posts/ai-sdlc-cost-per-merged-pr-coding-agent-token-budgets/)
+- [Enterprise AI: An Azure OpenAI On-Call Runbook - The Five Alerts That Page and the First Command for Each](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-on-call-runbook-five-alerts/)
+- [Trimming a D365 F&amp;O $metadata File Down to the Entities You Call: A Screenshot Walkthrough of EDMX Tools](https://blogs.lamplitlabs.com/posts/lamplit-tools-d365-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
