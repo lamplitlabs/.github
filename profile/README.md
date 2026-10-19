@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI SDLC: Running an LLM Eval Harness as a CI Quality Gate in .NET - Thresholds, Regression Budgets and the Pipeline That Blocks Prompt Drift](https://blogs.lamplitlabs.com/posts/ai-sdlc-llm-eval-harness-ci-gates-dotnet/)
+- [AI SDLC: Reviewing AI-Generated Code - The Seven Defect Classes Green Tests Missed and the Checklist That Cut Escapes 65%](https://blogs.lamplitlabs.com/posts/ai-sdlc-reviewing-ai-generated-code-defect-classes-checklist/)
+- [Enterprise AI: Governing LLM Usage - A Shadow-AI Inventory and a Usage Register in 30 Days](https://blogs.lamplitlabs.com/posts/enterprise-ai-shadow-ai-llm-usage-register-governance/)
+- [Time-to-First-Token for Streamed LLM Responses: .NET 9 vs Node 22, Measured](https://blogs.lamplitlabs.com/posts/llm-streaming-time-to-first-token-dotnet-vs-node/)
 - [AI SDLC: Rolling Out AI Code-Review Agents Across an Enterprise - Four Gates and the Eight-Week Numbers](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agents-enterprise-rollout/)
-- [AI SDLC: AGENTS.md Files Coding Agents Actually Follow - Five Rules and One Rework Metric](https://blogs.lamplitlabs.com/posts/ai-sdlc-agents-md-instruction-files-coding-agents-actually-follow/)
-- [AI SDLC: Cost per Merged PR - Token Budgets for Coding Agents and the Four Numbers We Track](https://blogs.lamplitlabs.com/posts/ai-sdlc-cost-per-merged-pr-coding-agent-token-budgets/)
-- [Enterprise AI: An Azure OpenAI On-Call Runbook - The Five Alerts That Page and the First Command for Each](https://blogs.lamplitlabs.com/posts/enterprise-ai-azure-openai-on-call-runbook-five-alerts/)
-- [Trimming a D365 F&amp;O $metadata File Down to the Entities You Call: A Screenshot Walkthrough of EDMX Tools](https://blogs.lamplitlabs.com/posts/lamplit-tools-d365-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
