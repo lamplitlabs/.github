@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI SDLC: When the Coding Agent Edits the Tests, Six Rules That Gate It](https://blogs.lamplitlabs.com/posts/ai-sdlc-gating-ai-agent-test-changes-test-integrity-rules/)
+- [Enterprise AI: A Use-Case Intake Form and Three Risk Tiers So Governance Scales With Risk, Not Headcount](https://blogs.lamplitlabs.com/posts/enterprise-ai-use-case-intake-risk-tiers-governance/)
 - [AI SDLC: Running an LLM Eval Harness as a CI Quality Gate in .NET - Thresholds, Regression Budgets and the Pipeline That Blocks Prompt Drift](https://blogs.lamplitlabs.com/posts/ai-sdlc-llm-eval-harness-ci-gates-dotnet/)
 - [AI SDLC: Reviewing AI-Generated Code - The Seven Defect Classes Green Tests Missed and the Checklist That Cut Escapes 65%](https://blogs.lamplitlabs.com/posts/ai-sdlc-reviewing-ai-generated-code-defect-classes-checklist/)
 - [Enterprise AI: Governing LLM Usage - A Shadow-AI Inventory and a Usage Register in 30 Days](https://blogs.lamplitlabs.com/posts/enterprise-ai-shadow-ai-llm-usage-register-governance/)
-- [Time-to-First-Token for Streamed LLM Responses: .NET 9 vs Node 22, Measured](https://blogs.lamplitlabs.com/posts/llm-streaming-time-to-first-token-dotnet-vs-node/)
-- [AI SDLC: Rolling Out AI Code-Review Agents Across an Enterprise - Four Gates and the Eight-Week Numbers](https://blogs.lamplitlabs.com/posts/ai-sdlc-code-review-agents-enterprise-rollout/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
