@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise AI: Stop the 429 Storm - Client-Side Rate Limiting for Azure OpenAI, Measured Five Ways](https://blogs.lamplitlabs.com/posts/enterprise-ai-client-side-rate-limiting-azure-openai-429-storms/)
+- [Rust vs Go Error Handling in AI Agent Tool Calls: Which Failure Taxonomy Caught More Bugs](https://blogs.lamplitlabs.com/posts/rust-vs-go-error-handling-ai-agent-tool-calls/)
+- [Profiling One Slow ASP.NET Core Endpoint with dotnet-counters and dotnet-trace](https://blogs.lamplitlabs.com/posts/profiling-aspnet-core-endpoint-dotnet-trace-counters/)
 - [AI SDLC: When the Coding Agent Edits the Tests, Six Rules That Gate It](https://blogs.lamplitlabs.com/posts/ai-sdlc-gating-ai-agent-test-changes-test-integrity-rules/)
 - [Enterprise AI: A Use-Case Intake Form and Three Risk Tiers So Governance Scales With Risk, Not Headcount](https://blogs.lamplitlabs.com/posts/enterprise-ai-use-case-intake-risk-tiers-governance/)
-- [AI SDLC: Running an LLM Eval Harness as a CI Quality Gate in .NET - Thresholds, Regression Budgets and the Pipeline That Blocks Prompt Drift](https://blogs.lamplitlabs.com/posts/ai-sdlc-llm-eval-harness-ci-gates-dotnet/)
-- [AI SDLC: Reviewing AI-Generated Code - The Seven Defect Classes Green Tests Missed and the Checklist That Cut Escapes 65%](https://blogs.lamplitlabs.com/posts/ai-sdlc-reviewing-ai-generated-code-defect-classes-checklist/)
-- [Enterprise AI: Governing LLM Usage - A Shadow-AI Inventory and a Usage Register in 30 Days](https://blogs.lamplitlabs.com/posts/enterprise-ai-shadow-ai-llm-usage-register-governance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
