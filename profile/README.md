@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI: Stop the 429 Storm - Client-Side Rate Limiting for Azure OpenAI, Measured Five Ways](https://blogs.lamplitlabs.com/posts/enterprise-ai-client-side-rate-limiting-azure-openai-429-storms/)
-- [Rust vs Go Error Handling in AI Agent Tool Calls: Which Failure Taxonomy Caught More Bugs](https://blogs.lamplitlabs.com/posts/rust-vs-go-error-handling-ai-agent-tool-calls/)
-- [Profiling One Slow ASP.NET Core Endpoint with dotnet-counters and dotnet-trace](https://blogs.lamplitlabs.com/posts/profiling-aspnet-core-endpoint-dotnet-trace-counters/)
-- [AI SDLC: When the Coding Agent Edits the Tests, Six Rules That Gate It](https://blogs.lamplitlabs.com/posts/ai-sdlc-gating-ai-agent-test-changes-test-integrity-rules/)
-- [Enterprise AI: A Use-Case Intake Form and Three Risk Tiers So Governance Scales With Risk, Not Headcount](https://blogs.lamplitlabs.com/posts/enterprise-ai-use-case-intake-risk-tiers-governance/)
+- [Rust Async Under Load: Tokio Backpressure in an LLM Gateway](https://blogs.lamplitlabs.com/posts/rust-tokio-async-llm-gateway-backpressure/)
+- [Go Performance: sync.Pool vs Per-Request Allocation, Benchmarked](https://blogs.lamplitlabs.com/posts/go-sync-pool-vs-allocation-benchmark/)
+- [sync.Pool vs fresh allocation, round two: p99 under a live HTTP handler](https://blogs.lamplitlabs.com/posts/go-sync-pool-http-p99-live-handler/)
+- [Go Context Cancellation for LLM Streaming and Agent Calls: One Pattern That Cut Waste 47x](https://blogs.lamplitlabs.com/posts/go-context-cancellation-llm-streaming-agents/)
+- [Rust Lock Contention Under Load: When RwLock Loses to a Sharded Cache](https://blogs.lamplitlabs.com/posts/rust-rwlock-vs-sharded-cache-p99/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
