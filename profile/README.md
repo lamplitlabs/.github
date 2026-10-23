@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Go sync.Pool and String Interning: Beating GC Pressure in the Same Tokenizer Sidecar](https://blogs.lamplitlabs.com/posts/go-sync-pool-string-interning-tokenizer-sidecar/)
+- [Rust Small-String Optimization: compact_str Cut Our LLM Tokenizer Sidecar&#39;s p99 by 67%](https://blogs.lamplitlabs.com/posts/rust-small-string-optimization-llm-tokenizer-sidecar/)
+- [AI SDLC: A Release Gate on Coding-Agent Evals That Blocks the Rollout, Not the Retrospective](https://blogs.lamplitlabs.com/posts/ai-sdlc-release-gates-agent-evals-block-model-rollout/)
 - [Rust Async Under Load: Tokio Backpressure in an LLM Gateway](https://blogs.lamplitlabs.com/posts/rust-tokio-async-llm-gateway-backpressure/)
 - [Go Performance: sync.Pool vs Per-Request Allocation, Benchmarked](https://blogs.lamplitlabs.com/posts/go-sync-pool-vs-allocation-benchmark/)
-- [sync.Pool vs fresh allocation, round two: p99 under a live HTTP handler](https://blogs.lamplitlabs.com/posts/go-sync-pool-http-p99-live-handler/)
-- [Go Context Cancellation for LLM Streaming and Agent Calls: One Pattern That Cut Waste 47x](https://blogs.lamplitlabs.com/posts/go-context-cancellation-llm-streaming-agents/)
-- [Rust Lock Contention Under Load: When RwLock Loses to a Sharded Cache](https://blogs.lamplitlabs.com/posts/rust-rwlock-vs-sharded-cache-p99/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
