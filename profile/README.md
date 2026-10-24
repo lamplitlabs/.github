@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise AI: The Silent Prompt Rollback Nobody Owned](https://blogs.lamplitlabs.com/posts/enterprise-ai-silent-prompt-rollback-nobody-owned/)
+- [Enterprise AI: The Retry Storm That Burned 4.1M Tokens in 40 Minutes](https://blogs.lamplitlabs.com/posts/enterprise-ai-retry-storm-burned-4m-tokens/)
+- [Enterprise AI: Audit Logging and Policy Controls for an LLM Gateway](https://blogs.lamplitlabs.com/posts/enterprise-ai-llm-gateway-audit-logging-policy-controls/)
 - [Go sync.Pool and String Interning: Beating GC Pressure in the Same Tokenizer Sidecar](https://blogs.lamplitlabs.com/posts/go-sync-pool-string-interning-tokenizer-sidecar/)
 - [Rust Small-String Optimization: compact_str Cut Our LLM Tokenizer Sidecar&#39;s p99 by 67%](https://blogs.lamplitlabs.com/posts/rust-small-string-optimization-llm-tokenizer-sidecar/)
-- [AI SDLC: A Release Gate on Coding-Agent Evals That Blocks the Rollout, Not the Retrospective](https://blogs.lamplitlabs.com/posts/ai-sdlc-release-gates-agent-evals-block-model-rollout/)
-- [Rust Async Under Load: Tokio Backpressure in an LLM Gateway](https://blogs.lamplitlabs.com/posts/rust-tokio-async-llm-gateway-backpressure/)
-- [Go Performance: sync.Pool vs Per-Request Allocation, Benchmarked](https://blogs.lamplitlabs.com/posts/go-sync-pool-vs-allocation-benchmark/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
