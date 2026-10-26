@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI: The Silent Prompt Rollback Nobody Owned](https://blogs.lamplitlabs.com/posts/enterprise-ai-silent-prompt-rollback-nobody-owned/)
-- [Enterprise AI: The Retry Storm That Burned 4.1M Tokens in 40 Minutes](https://blogs.lamplitlabs.com/posts/enterprise-ai-retry-storm-burned-4m-tokens/)
-- [Enterprise AI: Audit Logging and Policy Controls for an LLM Gateway](https://blogs.lamplitlabs.com/posts/enterprise-ai-llm-gateway-audit-logging-policy-controls/)
-- [Go sync.Pool and String Interning: Beating GC Pressure in the Same Tokenizer Sidecar](https://blogs.lamplitlabs.com/posts/go-sync-pool-string-interning-tokenizer-sidecar/)
-- [Rust Small-String Optimization: compact_str Cut Our LLM Tokenizer Sidecar&#39;s p99 by 67%](https://blogs.lamplitlabs.com/posts/rust-small-string-optimization-llm-tokenizer-sidecar/)
+- [Go pprof alloc_space: 2.87 GB of garbage from one `+=` in a loop](https://blogs.lamplitlabs.com/posts/go-pprof-alloc-space-escape-analysis/)
+- [Pulse is our internal RSI tool: the self-improving automation we don&#39;t ship](https://blogs.lamplitlabs.com/posts/pulse-internal-rsi-tool/)
+- [Model training and fine-tuning: turn the training loop into a pipeline with regression gates](https://blogs.lamplitlabs.com/posts/fine-tuning-pipeline-regression-gates/)
+- [AI Security: the model supply chain is the attack surface you already deployed](https://blogs.lamplitlabs.com/posts/ai-security-model-supply-chain-attack-surface/)
+- [Rust RwLock on a Read-Heavy Path: parking_lot vs std::sync, Measured](https://blogs.lamplitlabs.com/posts/rust-parking-lot-vs-std-rwlock/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
