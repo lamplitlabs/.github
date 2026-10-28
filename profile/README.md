@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Security: Agent Tool-Egress and Data-Exfiltration Controls That Actually Hold](https://blogs.lamplitlabs.com/posts/ai-security-llm-data-exfiltration-agent-tool-egress/)
+- [Fine-tuning data curation and eval-set construction for enterprise teams](https://blogs.lamplitlabs.com/posts/fine-tuning-data-curation-eval-set-construction/)
+- [LoRA vs QLoRA vs full fine-tuning: the GPU memory, cost, and eval-score tradeoffs](https://blogs.lamplitlabs.com/posts/lora-vs-full-fine-tuning-cost-quality-enterprise/)
 - [Go pprof alloc_space: 2.87 GB of garbage from one `+=` in a loop](https://blogs.lamplitlabs.com/posts/go-pprof-alloc-space-escape-analysis/)
-- [Pulse is our internal RSI tool: the self-improving automation we don&#39;t ship](https://blogs.lamplitlabs.com/posts/pulse-internal-rsi-tool/)
-- [Model training and fine-tuning: turn the training loop into a pipeline with regression gates](https://blogs.lamplitlabs.com/posts/fine-tuning-pipeline-regression-gates/)
-- [AI Security: the model supply chain is the attack surface you already deployed](https://blogs.lamplitlabs.com/posts/ai-security-model-supply-chain-attack-surface/)
-- [Rust RwLock on a Read-Heavy Path: parking_lot vs std::sync, Measured](https://blogs.lamplitlabs.com/posts/rust-parking-lot-vs-std-rwlock/)
+- [Pulse: Lamplit Labs&#39; multi-project self-improving &lpar;RSI&rpar; automation product, coming soon](https://blogs.lamplitlabs.com/posts/pulse-internal-rsi-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
