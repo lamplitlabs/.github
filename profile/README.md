@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Security: Prompt Injection Defenses for Agents That Actually Hold](https://blogs.lamplitlabs.com/posts/ai-security-prompt-injection-defenses-agents/)
+- [GGUF vs AWQ vs GPTQ: what 4-bit quantization really costs in quality and latency](https://blogs.lamplitlabs.com/posts/quantization-gguf-vs-awq-vs-gptq-quality-latency/)
 - [AI Security: Agent Tool-Egress and Data-Exfiltration Controls That Actually Hold](https://blogs.lamplitlabs.com/posts/ai-security-llm-data-exfiltration-agent-tool-egress/)
 - [Fine-tuning data curation and eval-set construction for enterprise teams](https://blogs.lamplitlabs.com/posts/fine-tuning-data-curation-eval-set-construction/)
 - [LoRA vs QLoRA vs full fine-tuning: the GPU memory, cost, and eval-score tradeoffs](https://blogs.lamplitlabs.com/posts/lora-vs-full-fine-tuning-cost-quality-enterprise/)
-- [Go pprof alloc_space: 2.87 GB of garbage from one `+=` in a loop](https://blogs.lamplitlabs.com/posts/go-pprof-alloc-space-escape-analysis/)
-- [Pulse: Lamplit Labs&#39; multi-project self-improving &lpar;RSI&rpar; automation product, coming soon](https://blogs.lamplitlabs.com/posts/pulse-internal-rsi-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
