@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Security: Prompt Injection Defenses for Agents That Actually Hold](https://blogs.lamplitlabs.com/posts/ai-security-prompt-injection-defenses-agents/)
-- [GGUF vs AWQ vs GPTQ: what 4-bit quantization really costs in quality and latency](https://blogs.lamplitlabs.com/posts/quantization-gguf-vs-awq-vs-gptq-quality-latency/)
-- [AI Security: Agent Tool-Egress and Data-Exfiltration Controls That Actually Hold](https://blogs.lamplitlabs.com/posts/ai-security-llm-data-exfiltration-agent-tool-egress/)
-- [Fine-tuning data curation and eval-set construction for enterprise teams](https://blogs.lamplitlabs.com/posts/fine-tuning-data-curation-eval-set-construction/)
-- [LoRA vs QLoRA vs full fine-tuning: the GPU memory, cost, and eval-score tradeoffs](https://blogs.lamplitlabs.com/posts/lora-vs-full-fine-tuning-cost-quality-enterprise/)
+- [Go pprof Profiling Guide: CPU, Goroutine and Mutex Profiles on One Service](https://blogs.lamplitlabs.com/posts/go-pprof-profiling-guide-cpu-goroutine-mutex/)
+- [AI Security: Agent Tool Permissions That Survive Prompt Injection](https://blogs.lamplitlabs.com/posts/ai-security-agent-tool-permissions-prompt-injection/)
+- [LoRA Fine-Tuning LLMs: A Practical Guide from Dataset to Eval Gate](https://blogs.lamplitlabs.com/posts/lora-fine-tuning-practical-guide/)
+- [Sandboxing Agent Tool Calls: Keep the Secrets Out of the Blast Radius](https://blogs.lamplitlabs.com/posts/ai-security-sandboxing-agent-tool-calls/)
+- [Rolling out LLM assistants in a large organisation: governance that ships](https://blogs.lamplitlabs.com/posts/enterprise-ai-llm-assistant-rollout-governance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
