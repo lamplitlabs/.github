@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Security: Secrets in Agent Logs, Measured - What gitleaks and Redaction Actually Catch](https://blogs.lamplitlabs.com/posts/ai-security-secrets-in-agent-logs-measured/)
 - [Continuous batching, measured: llama.cpp static vs continuous scheduling on one M2 Pro](https://blogs.lamplitlabs.com/posts/continuous-batching-llm-serving-llama-cpp-measured/)
 - [Go pprof Profiling Guide: CPU, Goroutine and Mutex Profiles on One Service](https://blogs.lamplitlabs.com/posts/go-pprof-profiling-guide-cpu-goroutine-mutex/)
 - [AI Security: Agent Tool Permissions That Survive Prompt Injection](https://blogs.lamplitlabs.com/posts/ai-security-agent-tool-permissions-prompt-injection/)
 - [LoRA Fine-Tuning LLMs: A Practical Guide from Dataset to Eval Gate](https://blogs.lamplitlabs.com/posts/lora-fine-tuning-practical-guide/)
-- [Sandboxing Agent Tool Calls: Keep the Secrets Out of the Blast Radius](https://blogs.lamplitlabs.com/posts/ai-security-sandboxing-agent-tool-calls/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
