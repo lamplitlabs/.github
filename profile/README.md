@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust Error Handling: thiserror vs anyhow, Measured on One Parser](https://blogs.lamplitlabs.com/posts/rust-error-handling-thiserror-vs-anyhow-measured/)
 - [Fine-Tuning Evaluation, Measured: Held-Out Perplexity, KL Drift and Benchmarks](https://blogs.lamplitlabs.com/posts/fine-tuning-evaluation-measured-llama-cpp/)
 - [AI Security: Hidden Prompt Injection vs Agent Page Readers, Measured](https://blogs.lamplitlabs.com/posts/ai-security-hidden-prompt-injection-agent-page-readers-measured/)
 - [Rust Profiling Practical Guide: sample, Flame Graphs and a Counting Allocator, Measured](https://blogs.lamplitlabs.com/posts/rust-profiling-practical-guide-sample-flamegraph/)
 - [AI Security: Secrets in Agent Logs, Measured - What gitleaks and Redaction Actually Catch](https://blogs.lamplitlabs.com/posts/ai-security-secrets-in-agent-logs-measured/)
-- [Continuous batching, measured: llama.cpp static vs continuous scheduling on one M2 Pro](https://blogs.lamplitlabs.com/posts/continuous-batching-llm-serving-llama-cpp-measured/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
