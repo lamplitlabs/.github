@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [AI SDLC: Spec to PR With Coding Agents, Measured - What to Gate Before and After the Agent](https://blogs.lamplitlabs.com/posts/ai-sdlc-spec-to-pr-agents-what-to-gate/)
+- [Tokio Performance Pitfalls, Measured: Blocking, Mutexes, Spawns and File I/O](https://blogs.lamplitlabs.com/posts/rust-tokio-async-performance-pitfalls-measured/)
+- [AI Code Review Gates in CI, Measured: 26 Seeded Agent Defects Against a Go Pipeline](https://blogs.lamplitlabs.com/posts/ai-sdlc-ai-code-review-gates-ci-go-measured/)
 - [Rust Error Handling: thiserror vs anyhow, Measured on One Parser](https://blogs.lamplitlabs.com/posts/rust-error-handling-thiserror-vs-anyhow-measured/)
 - [Fine-Tuning Evaluation, Measured: Held-Out Perplexity, KL Drift and Benchmarks](https://blogs.lamplitlabs.com/posts/fine-tuning-evaluation-measured-llama-cpp/)
-- [AI Security: Hidden Prompt Injection vs Agent Page Readers, Measured](https://blogs.lamplitlabs.com/posts/ai-security-hidden-prompt-injection-agent-page-readers-measured/)
-- [Rust Profiling Practical Guide: sample, Flame Graphs and a Counting Allocator, Measured](https://blogs.lamplitlabs.com/posts/rust-profiling-practical-guide-sample-flamegraph/)
-- [AI Security: Secrets in Agent Logs, Measured - What gitleaks and Redaction Actually Catch](https://blogs.lamplitlabs.com/posts/ai-security-secrets-in-agent-logs-measured/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
