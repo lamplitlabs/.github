@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Replay Data vs Catastrophic Forgetting, Measured: Mixing General Text into a Fine-Tune](https://blogs.lamplitlabs.com/posts/fine-tuning-replay-data-forgetting-measured/)
+- [AI SDLC: The Agent-Written Code Review Loop, Measured - Review, Fix, Re-review on 14 Go PRs](https://blogs.lamplitlabs.com/posts/ai-sdlc-agent-code-review-loop-measured/)
+- [Enterprise AI: Token Budgets That Hold Under Concurrency - Measured on an LLM Gateway](https://blogs.lamplitlabs.com/posts/enterprise-ai-token-budgets-concurrency-measured/)
 - [AI SDLC: Spec to PR With Coding Agents, Measured - What to Gate Before and After the Agent](https://blogs.lamplitlabs.com/posts/ai-sdlc-spec-to-pr-agents-what-to-gate/)
 - [Tokio Performance Pitfalls, Measured: Blocking, Mutexes, Spawns and File I/O](https://blogs.lamplitlabs.com/posts/rust-tokio-async-performance-pitfalls-measured/)
-- [AI Code Review Gates in CI, Measured: 26 Seeded Agent Defects Against a Go Pipeline](https://blogs.lamplitlabs.com/posts/ai-sdlc-ai-code-review-gates-ci-go-measured/)
-- [Rust Error Handling: thiserror vs anyhow, Measured on One Parser](https://blogs.lamplitlabs.com/posts/rust-error-handling-thiserror-vs-anyhow-measured/)
-- [Fine-Tuning Evaluation, Measured: Held-Out Perplexity, KL Drift and Benchmarks](https://blogs.lamplitlabs.com/posts/fine-tuning-evaluation-measured-llama-cpp/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
