@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Go PGO in Practice: What go build -pgo Changed in a Log Router, Measured](https://blogs.lamplitlabs.com/posts/go-pgo-profile-guided-optimization-measured/)
 - [Replay Data vs Catastrophic Forgetting, Measured: Mixing General Text into a Fine-Tune](https://blogs.lamplitlabs.com/posts/fine-tuning-replay-data-forgetting-measured/)
 - [AI SDLC: The Agent-Written Code Review Loop, Measured - Review, Fix, Re-review on 14 Go PRs](https://blogs.lamplitlabs.com/posts/ai-sdlc-agent-code-review-loop-measured/)
 - [Enterprise AI: Token Budgets That Hold Under Concurrency - Measured on an LLM Gateway](https://blogs.lamplitlabs.com/posts/enterprise-ai-token-budgets-concurrency-measured/)
 - [AI SDLC: Spec to PR With Coding Agents, Measured - What to Gate Before and After the Agent](https://blogs.lamplitlabs.com/posts/ai-sdlc-spec-to-pr-agents-what-to-gate/)
-- [Tokio Performance Pitfalls, Measured: Blocking, Mutexes, Spawns and File I/O](https://blogs.lamplitlabs.com/posts/rust-tokio-async-performance-pitfalls-measured/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
