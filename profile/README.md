@@ -98,11 +98,11 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust PGO vs Go PGO on the Same Log Router: Fewer Instructions, More Cycles, Measured](https://blogs.lamplitlabs.com/posts/rust-pgo-vs-go-pgo-profile-guided-optimization-measured/)
-- [AI Security: ReDoS in LLM Guardrail Regexes, Measured in Python, Node, Go and Rust](https://blogs.lamplitlabs.com/posts/ai-security-guardrail-regex-redos-measured/)
-- [AI SDLC: Agent-Written Go Tests vs Mutation Testing, Measured - Same 97.3% Score, 15 or 19 Bugs Caught](https://blogs.lamplitlabs.com/posts/ai-sdlc-agent-written-tests-mutation-testing-go-measured/)
-- [AI Security: Your Tool Gate and Your Rust Executor Read Different JSON, Measured](https://blogs.lamplitlabs.com/posts/ai-security-tool-call-argument-parser-differentials-rust-serde-measured/)
-- [AI Security: Tool-Call Permission Boundaries for Coding Agents, Measured](https://blogs.lamplitlabs.com/posts/ai-security-agent-tool-call-permission-boundaries-measured/)
+- [AI Security: Unicode Tricks vs Keyword Guardrails, Measured](https://blogs.lamplitlabs.com/posts/ai-security-unicode-obfuscation-keyword-guardrails-measured/)
+- [AI Security: Document Permissions in RAG, Measured - Prompt Rules, Post-filters, Pre-filters and Caches](https://blogs.lamplitlabs.com/posts/ai-security-rag-document-permissions-measured/)
+- [AI Security: Secrets in Agent-Log Hexdumps, Measured - xxd, hexdump and od Against gitleaks and Redaction](https://blogs.lamplitlabs.com/posts/ai-security-agent-log-hexdump-secrets-measured/)
+- [AI Security: Unicode Tricks vs a Keyword Prompt-Injection Filter, Measured](https://blogs.lamplitlabs.com/posts/ai-security-unicode-obfuscated-prompt-injection-filter-measured/)
+- [AI Security: Unicode Tricks vs Keyword Guardrails, Measured](https://blogs.lamplitlabs.com/posts/ai-security-unicode-obfuscation-keyword-guardrails-measured/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
