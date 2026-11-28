@@ -98,7 +98,7 @@ From medical exam prep for doctors in Germany to citizenship test tools, career 
 ## 📝 Latest from the Blog
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Security: Unicode Tricks vs Keyword Guardrails, Measured](https://blogs.lamplitlabs.com/posts/ai-security-unicode-obfuscation-keyword-guardrails-measured/)
+- [AI Security: Unicode Tricks vs Keyword Guardrails, Measured](https://blogs.lamplitlabs.com/posts/ai-security-unicode-disguises-keyword-guard-normalisation-measured/)
 - [AI Security: Document Permissions in RAG, Measured - Prompt Rules, Post-filters, Pre-filters and Caches](https://blogs.lamplitlabs.com/posts/ai-security-rag-document-permissions-measured/)
 - [AI Security: Secrets in Agent-Log Hexdumps, Measured - xxd, hexdump and od Against gitleaks and Redaction](https://blogs.lamplitlabs.com/posts/ai-security-agent-log-hexdump-secrets-measured/)
 - [AI Security: Unicode Tricks vs a Keyword Prompt-Injection Filter, Measured](https://blogs.lamplitlabs.com/posts/ai-security-unicode-obfuscated-prompt-injection-filter-measured/)
